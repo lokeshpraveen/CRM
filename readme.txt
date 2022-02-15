@@ -1,1 +1,1 @@
-install crm in local disk
+install crm in local disk (file)
