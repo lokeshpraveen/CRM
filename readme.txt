@@ -1,0 +1,1 @@
+install crm in local disk
